@@ -1,4 +1,4 @@
-_**This is the place I keep notes of what I learnt and what I accomplished.**_ &ensp;&ensp;- *Dat Pham Thanh - Student at [UIT - VNU HCM](https://www.uit.edu.vn/)* -
+_**This is the place I keep notes of what I learnt and what I accomplished.**_ &ensp;&ensp;~ *Dat Pham Thanh - Student at [UIT - VNU HCM](https://www.uit.edu.vn/)* ~
 - I’m currently studying at [University of Information Technology - VNU HCM](https://www.uit.edu.vn/)
 > Education
 
