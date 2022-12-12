@@ -3,7 +3,7 @@ _**This is the place I keep notes of what I learnt and what I accomplished.**_ &
 > Education
 
 
-<pre>My Achivements</pre>
+<pre> My Achivements </pre>
 - [Semester I of 2020-2021](https://bit.ly/HK1-2020-2021)
 - [Semester II of 2020-2021](https://bit.ly/HK2-2020-2021)
 - [Semester I of 2021-2022](https://bit.ly/HK1-2021-2022)
@@ -18,10 +18,10 @@ _**This is the place I keep notes of what I learnt and what I accomplished.**_ &
 - [My Blog](https://ptdatuit.blogspot.com/)
 > My Licenses & Certifications:
 - [Critical Thinking](https://drive.google.com/file/d/1LXJRg_WdLU7JULLVasgagtEenuwfMzBT/view?usp=share_link)
-- How to reach me: 
-<br />📧 *Gmail :* 20521175@gm.uit.edu.vn 
-<br />📫 *[Facebook](https://www.facebook.com/thanhdatpham.uit)*
-<br />📩 *[Instagram](https://www.instagram.com/thanhdatpham.uit/)* 
+<pre> How to reach me: </pre>
+- 📧 *Gmail :* 20521175@gm.uit.edu.vn 
+- 📫 *[Facebook](https://www.facebook.com/thanhdatpham.uit)*
+- 📩 *[Instagram](https://www.instagram.com/thanhdatpham.uit/)*
 
 <!--
 **kudat-uit/kudat-uit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
