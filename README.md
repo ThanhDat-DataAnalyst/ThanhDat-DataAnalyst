@@ -1,5 +1,6 @@
 _**This is the place I keep notes of what I learnt and what I accomplished.**_
-Dat Pham Thanh - Student at [University of Information Technology - VNU HCM](https://www.uit.edu.vn/)
+
+&ensp;*Dat Pham Thanh - Student at [University of Information Technology - VNU HCM](https://www.uit.edu.vn/)*
 - 📚 I’m currently studying at [UIT - VNU HCM](https://www.uit.edu.vn/)
 - How to reach me: 
 <br />📧 *Gmail :* 20521175@gm.uit.edu.vn 
