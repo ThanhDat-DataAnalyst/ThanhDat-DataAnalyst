@@ -1,7 +1,23 @@
-_**This is the place I keep notes of what I learnt and what I accomplished.**_
+_**This is the place I keep notes of what I learnt and what I accomplished.**_ &ensp;&ensp;- *Dat Pham Thanh - Student at [UIT - VNU HCM](https://www.uit.edu.vn/)* -
+- I’m currently studying at [University of Information Technology - VNU HCM](https://www.uit.edu.vn/)
+> Education
 
-&ensp;*Dat Pham Thanh - Student at [University of Information Technology - VNU HCM](https://www.uit.edu.vn/)*
-- 📚 I’m currently studying at [UIT - VNU HCM](https://www.uit.edu.vn/)
+
+<pre>My Achivements</pre>
+- [Semester I of 2020-2021](https://bit.ly/HK1-2020-2021)
+- [Semester II of 2020-2021](https://bit.ly/HK2-2020-2021)
+- [Semester I of 2021-2022](https://bit.ly/HK1-2021-2022)
+- [Semester II of 2021-2022](https://bit.ly/HK2-2021-2022)
+- IELTS: ...
+> Skills
+
+
+<pre> My Community Projects:</pre>
+- [Young Conservationists Save the Wild life](https://drive.google.com/drive/folders/1j9RhhD5xOkBZRKZrsuPX52qF8obLTZMZ?usp=share_link)
+> My Individual Projects:
+- [My Blog](https://ptdatuit.blogspot.com/)
+> My Licenses & Certifications:
+- [Critical Thinking](https://drive.google.com/file/d/1LXJRg_WdLU7JULLVasgagtEenuwfMzBT/view?usp=share_link)
 - How to reach me: 
 <br />📧 *Gmail :* 20521175@gm.uit.edu.vn 
 <br />📫 *[Facebook](https://www.facebook.com/thanhdatpham.uit)*
@@ -21,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
