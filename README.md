@@ -19,9 +19,14 @@ _**This is the place I keep notes of what I learnt and what I accomplished.**_ &
 > My Licenses & Certifications:
 - [Critical Thinking](https://drive.google.com/file/d/1LXJRg_WdLU7JULLVasgagtEenuwfMzBT/view?usp=share_link)
 <pre> How to reach me: </pre>
-- 📧 *Gmail :* 20521175@gm.uit.edu.vn 
-- 📫 *[Facebook](https://www.facebook.com/thanhdatpham.uit)*
-- 📩 *[Instagram](https://www.instagram.com/thanhdatpham.uit/)*
+## Social Networks
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/th%C3%A0nh-%C4%91%E1%BA%A1t-ph%E1%BA%A1m-b87839233/"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/linkined.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/thanhdatpham.uit/"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/facebook.png"></a>&nbsp;&nbsp;
+<a href="[https://scholar.google.com/citations?user=NNODPMYAAAAJ](https://github.com/kudat-uit)"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/scholar.png"></a>&nbsp;&nbsp;
+</p>
+
 
 <!--
 **kudat-uit/kudat-uit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
