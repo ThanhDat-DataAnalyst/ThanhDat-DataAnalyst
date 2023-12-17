@@ -22,7 +22,7 @@
 
 **Techniques 🤖**
 
-	✨ AI: Machine learning, Deep learning, Machine learning. 
+	✨ AI: Machine learning, Deep learning, BigDL. 
  
     ✨ Web development: HTML5/CSS, Express ReactJS, NodeJS.
 
