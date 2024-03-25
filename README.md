@@ -13,7 +13,7 @@
 </p>
 
 
-## 🌱 Tôi hiện đang tìm kiếm vị trí **`Thực tập/ Cấp đầu vào`** trong lĩnh vực **`Data Analyst, Business Analyst, Kỹ sư AI`**
+## 🌱 Tôi hiện đang tìm kiếm vị trí **`Thực tập/ Fresher`** trong lĩnh vực **`Data Analyst, Business Analyst, Kỹ sư AI`**
 
 ### 🎓 Học vấn
 - **[University of Information Technology - VNU HCM](https://www.uit.edu.vn/)** - Sinh viên năm cuối
