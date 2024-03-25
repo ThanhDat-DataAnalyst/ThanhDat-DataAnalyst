@@ -1,60 +1,52 @@
-</br><h1 align="center">
-  </br>**Thành Đạt Phạm**&ensp;&ensp;
-</br><h4 align="right">
-   A senior student at [University of Information Technology - VNU HCM](https://www.uit.edu.vn/)
- </h4></h1>
+<h1 align="center">👋 Xin chào, tôi là Thành Đạt Phạm</h1>
+<h3 align="center">Một sinh viên năm cuối đam mê về Data Analyst, Business Analyst, và AI tại UIT</h3>
 
- 
-- 🌱 I'm currently seeking an **`Internship/ Entry-level`** position in the fields of **`Data Analyst/ Business Analyst/ AI engineer`**
-## Education
+<p align="center">
+  <a href="https://www.linkedin.com/in/tdp-uit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
+  <a href="https://www.facebook.com/thanhdatpham.uit/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=flat&logo=facebook" alt="Facebook Badge"></a>
+  <a href="https://www.instagram.com/kuiem.3004/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=flat&logo=instagram" alt="Instagram Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=kudat-uit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
-
-#### <pre> My Achivements </pre>
-**`🏆 Academic score: 4.0/4.0`**
-- [Semester I of 2020-2021](https://bit.ly/HK1-2020-2021)
-- [Semester II of 2020-2021](https://bit.ly/HK2-2020-2021)
-- [Semester I of 2021-2022](https://bit.ly/HK1-2021-2022)
-- [Semester II of 2021-2022](https://bit.ly/HK2-2021-2022)
-- [Semester II of 2022-2023](https://drive.google.com/file/d/1tpiHWPJ-MiUvf1Os_FBNKqEwaptrd-g5/view?fbclid=IwAR2qbSeqeUjdnBq7c5h5uRsPYT5lBwrVjqwtL9im26u1nPe_C7Axjwj_gwo)
-- **`IELTS: Updating ...`**
-- **`Toeic: 960`**
-## Skills
-
-**Techniques 🤖**
-
-	✨ AI: Machine learning, Deep learning, BigDL. 
- 
-    ✨ Web development: HTML5/CSS, Express ReactJS, NodeJS.
-
-	✨ Database: SQL, Neo4j, MongoDB, Oracle.
-
-#### <pre> My Community Projects:</pre>
-- [Young Conservationists Save the Wild life](https://drive.google.com/drive/folders/1j9RhhD5xOkBZRKZrsuPX52qF8obLTZMZ?usp=share_link)
-> My Individual Projects:
-- [My Blog](https://ptdatuit.blogspot.com/)
-> My Licenses & Certifications:
-- [Critical Thinking](https://drive.google.com/file/d/1LXJRg_WdLU7JULLVasgagtEenuwfMzBT/view?usp=share_link)
-> Google Data:
-## 📫 How to reach me:
-<p align='center'>
-<code><a href="https://www.linkedin.com/in/tdp-uit"><img height="30" src="https://github.com/kudat-uit/kudat-uit/blob/main/linkined.png"></a>&nbsp;&nbsp;</code>
-<code><a href="https://www.facebook.com/thanhdatpham.uit/"><img height="30" src="https://github.com/kudat-uit/kudat-uit/blob/main/124010.png"></a>&nbsp;&nbsp;</code>
-<code><a href="https://www.instagram.com/kuiem.3004/""><img height="30" src="https://github.com/kudat-uit/kudat-uit/blob/main/Instagram.png"></a>&nbsp;&nbsp;</code>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kudat-uit&theme=vue" width="600" alt="Profile Summary">
 </p>
 
 
-<!--
-**kudat-uit/kudat-uit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Tôi hiện đang tìm kiếm vị trí **`Thực tập/ Cấp đầu vào`** trong lĩnh vực **`Data Analyst, Business Analyst, Kỹ sư AI`**
 
-Here are some ideas to get you started:
+### 🎓 Học vấn
+- **[University of Information Technology - VNU HCM](https://www.uit.edu.vn/)** - Sinh viên năm cuối
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Thành tích của tôi
+- **`Điểm học tập: 4.0/4.0`**
+- **`IELTS: Đang cập nhật...`**
+- **`Toeic: 960`**
 
+### 💼 Kỹ năng
+- **AI:** Machine learning, Deep learning, BigDL.
+- **Data Analysis & Business Analysis:** Excel, SQL, Power BI, Tableau, R, Python (pandas, NumPy, matplotlib, seaborn), Google Analytics.
+- **Database:** SQL, Neo4j, MongoDB, Oracle.
+
+### 📜 Chứng chỉ
+- **Software Development With Scrum** - [Xem Chứng Chỉ](https://verified.sertifier.com/en/verify/94102379210581/)
+- **Google Data Analytics Specialization** - [Xem tại Coursera](https://coursera.org/share/480cf7a3d889e338e457a72ae00d30b7)
+
+### 🔭 Dự án Cộng đồng của tôi
+- [Những Người Trẻ Bảo Tồn Động Vật Hoang Dã](https://drive.google.com/drive/folders/1j9RhhD5xOkBZRKZrsuPX52qF8obLTZMZ?usp=share_link)
+
+### 📊 GitHub Statistics
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kudat-uit&show_icons=true&theme=algolia" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kudat-uit&theme=algolia" alt="GitHub Streak">
+  </a>
+</p>
+
+### 📫 Liên hệ với tôi
+<p align='center'>
+  <a href="https://www.linkedin.com/in/tdp-uit"><img height="30" src="https://github.com/kudat-uit/kudat-uit/blob/main/linkined.png"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thanhdatpham.uit/"><img height="30" src="https://github.com/kudat-uit/kudat-uit/blob/main/124010.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kuiem.3004/"><img height="30" src="https://github.com/kudat-uit/k
