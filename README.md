@@ -2,11 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=18&duration=5000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Looking+for+intern+in+AI+Engineer,+DA,+IT+BA,+Data+Engineer)
 
-<h4>  I am driven to excel as an **`AI Engineer`**, **`Data Analyst`**, **`IT Business Analyst`**, and **`Data Enginee`r**, underpinned by a solid foundation in **`Information Systems`** and a profound passion for **`data`**.
-  
+I am driven to excel as an **`AI Engineer`**, **`Data Analyst`**, **`IT Business Analyst`**, and **`Data Enginee`r**, underpinned by a solid foundation in **`Information Systems`** and a profound passion for **`data.`**
+
   My goal is to further develop my **`data analysis skills`** and transition into **`data science`** and **`AI research`** over the next 2–3 years. Committed to lifelong learning and professional growth, I aim to **` bring my youthful energy, dedication, and enthusiasm to your company`**, where **`I can contribute significantly and engage in a long-term professional relationship. (At least 5 years)`**
   
-  My core strengths include leveraging my expertise to deliver high-quality results and drive innovation. Eager to establish enduring partnerships, I seek challenges that promote both personal and organizational growth, helping to achieve your strategic objectives.</h4>
+  My core strengths include leveraging my expertise to deliver high-quality results and drive innovation. Eager to establish enduring partnerships, I seek challenges that promote both personal and organizational growth, helping to achieve your strategic objectives.
   <p align="center">
     <a href="https://www.linkedin.com/in/tdp-uit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
     <a href="https://www.facebook.com/thanhdatpham.uit/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=flat&logo=facebook" alt="Facebook Badge"></a>
