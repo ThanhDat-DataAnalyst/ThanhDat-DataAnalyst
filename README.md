@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=18&duration=5000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Looking+for+intern+in+AI+Engineer,+DA,+IT+BA,+Data+Engineer)
 
-I am driven to excel as an **`AI Engineer`**, **`Data Analyst`**, **`IT Business Analyst`**, and **`Data Enginee`r**, underpinned by a solid foundation in **`Information Systems`** and a profound passion for **`data.`**
+I am driven to excel as an **`Data Analyst`**, **`IT Business Analyst`**, and **`Data Enginee`r**, underpinned by a solid foundation in **`Information Systems`** and a profound passion for **`data.`**
 
   My goal is to further develop my **`data analysis skills`** and transition into **`data science`** and **`AI research`** over the next 2–3 years. Committed to lifelong learning and professional growth, I aim to **` bring my youthful energy, dedication, and enthusiasm to your company`**, where **`I can contribute significantly and engage in a long-term professional relationship. (At least 5 years)`**
   
