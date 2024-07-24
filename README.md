@@ -1,14 +1,14 @@
-# 🌟 Thành Đạt Phạm - Aspiring Data Analyst, IT Business Analyst, and Data Engineer
+# 🌟 Thành Đạt Phạm - Aspiring Data Engineer | BI Database Developer Intern @XSUNT Corporation
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=18&duration=5000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+I+am+passionate+about+data+and+AI.)
 
 ## 🎯 Objective
 
-I am driven to excel as a **Data Analyst**, **IT Business Analyst**, and **Data Engineer**, with a solid foundation in **Information Systems** and a profound passion for **data**. My goal is to further develop my **data analysis skills** and transition into **data science** and **AI research** over the next 2–3 years.
+I am driven to excel as a **Data Engineer**, underpinned by a foundation in **Information Systems** and a profound passion for **data**. My goal is to further develop my **data engineering skills** and transition into **advanced data science** and **AI research** over the next 2–3 years. Committed to lifelong learning and professional growth, I aim to bring my youthful energy, dedication, and enthusiasm to your company, where I can contribute significantly and engage in a long-term professional relationship (at least 5 years).
 
 ## 🌱 Career Goals
 
-- **Develop** advanced **data analysis skills**
+- **Develop** advanced **data engineering skills**
 - **Transition** into **data science** and **AI research**
 - **Commit** to a **long-term professional relationship** with a company (at least 5 years)
 - **Bring** enthusiasm, dedication, and innovation to contribute significantly to the company
@@ -23,24 +23,16 @@ I am driven to excel as a **Data Analyst**, **IT Business Analyst**, and **Data 
 
 ### Technical Skills
 
-- **AI:** Machine Learning, Deep Learning, BigDL
-- **Data Analysis & Business Analysis:** Excel, SQL, Power BI, Tableau, R, Python (pandas, NumPy, matplotlib, seaborn), Google Analytics
-- **Database:** SQL, Neo4j, MongoDB, Oracle
+- **Programming Languages:** Python, R, SQL
+- **Data Engineering:** Hadoop, Spark, Data Warehousing, ETL Processes
+- **Data Visualization:** Tableau, Power BI
+- **Big Data Technologies:** Hadoop, Spark
 
 ### Additional Skills
 
-- Information Elicitation & Requirement Analysis
-- Business Knowledge
-- Negotiation & Problem Solving
-- Documentation: Software Requirement Specification, Business Requirements, Use cases, BPMN 2.0, Functional and Non-functional requirements, GUI specification
-- Enhancing Communication and Collaboration: Facilitating efficient interaction among clients and stakeholders
 - Data Preprocessing, Data Cleansing, Data Integration
 - Communication skills
-- Good at Teamwork
-- Attention to detail
-- Good at English communication
-- Data visualization
-- Data analysis & Data consistency
+
 - Machine Learning (basic)
 - Deep Learning (basic)
 - Test API (Postman)
@@ -74,9 +66,8 @@ I am driven to excel as a **Data Analyst**, **IT Business Analyst**, and **Data 
   </a>
 </p>
 
-
 ## 📫 Contact Me
-
+Let's connect and explore how we can turn data into opportunities! 🚀 
 <p align="center">
   <a href="https://www.linkedin.com/in/tdp-uit" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
@@ -86,4 +77,4 @@ I am driven to excel as a **Data Analyst**, **IT Business Analyst**, and **Data 
   </a>
   <img src="https://komarev.com/ghpvc/?username=kudat-uit&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </p>
-
+#DataEngineering #BigData #BusinessIntelligence #DataAnalytics #CareerGrowth
