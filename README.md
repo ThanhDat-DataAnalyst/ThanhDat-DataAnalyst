@@ -4,7 +4,7 @@
 
 ## 🎯 Objective
 
-I am driven to excel as a **Data Engineer**, underpinned by a foundation in **Information Systems** and a profound passion for **data**. My goal is to further develop my **data engineering skills** and transition into **advanced data science** and **AI research** over the next 2–3 years. Committed to lifelong learning and professional growth, I aim to bring my youthful energy, dedication, and enthusiasm to your company, where I can contribute significantly and engage in a long-term professional relationship (at least 5 years).
+**Willing to sacrifice time, health, and monthly income to learn and work in a professional environment.**
 
 ## 🌱 Career Goals
 
