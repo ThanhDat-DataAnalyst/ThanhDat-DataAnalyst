@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Thành Đạt Phạm - Data Project Assistant @ ACB
+# 🌟 Thành Đạt Phạm - Data Analyst @ Kemereo
 
 [![Portfolio](https://img.shields.io/badge/-My_Portfolio-blue?style=for-the-badge&logo=github&logoColor=white)](https://thanhdat-dataanalyst.github.io/datpt-dataanalyst.github.io/)
 
