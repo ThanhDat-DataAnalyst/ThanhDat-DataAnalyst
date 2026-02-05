@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌟 Thành Đạt Phạm - Data Analyst @Kamereo
+# 🌟 Thành Đạt Phạm - Data Analytics Engineer
 
-[![Portfolio](https://img.shields.io/badge/-My_Portfolio-blue?style=for-the-badge&logo=github&logoColor=white)](https://thanhdat-dataanalyst.github.io/datpt-dataanalyst.github.io/)
+[![Portfolio](https://img.shields.io/badge/-My_Portfolio-blue?style=for-the-badge&logo=github&logoColor=white)]([https://thanhdat-dataanalyst.github.io/datpt-dataanalyst.github.io/](https://phamthanhdat.vercel.app/index.html))
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=18&duration=5000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+I+am+passionate+about+data+and+AI.)
 
